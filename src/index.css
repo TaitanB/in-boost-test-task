@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #37352f;
+}
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+}

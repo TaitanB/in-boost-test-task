@@ -1,0 +1,14 @@
+.item {
+  border-top: 1px solid rgb(181, 211, 217);
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.label {
+  width: 100%;
+}
