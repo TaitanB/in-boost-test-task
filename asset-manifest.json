@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/in-boost-test-task/static/css/main.44ed7483.css",
+    "main.js": "/in-boost-test-task/static/js/main.7f61ffad.js",
+    "index.html": "/in-boost-test-task/index.html",
+    "main.44ed7483.css.map": "/in-boost-test-task/static/css/main.44ed7483.css.map",
+    "main.7f61ffad.js.map": "/in-boost-test-task/static/js/main.7f61ffad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ed7483.css",
+    "static/js/main.7f61ffad.js"
+  ]
+}
